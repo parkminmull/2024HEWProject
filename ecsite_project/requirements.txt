@@ -1,0 +1,35 @@
+annotated-types==0.6.0
+asgiref @ file:///Users/ec2-user/ci_py311/asgiref_1678390266874/work
+beautifulsoup4==4.12.2
+Brotli @ file:///Users/ec2-user/ci_py311/brotli-split_1678379922007/work
+certifi @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_dfez5lkpj0/croot/certifi_1707229180975/work/certifi
+cffi @ file:///Users/ec2-user/ci_py311/cffi_1678315312775/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+cryptography @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_19sc_35nzq/croot/cryptography_1694211574676/work
+defusedxml==0.7.1
+Django @ file:///Users/ec2-user/ci_py311/django_1678411010555/work
+django-allauth==0.58.2
+django-rest-framework==0.1.0
+django-widgets-improved==1.5.0
+djangorestframework==3.14.0
+idna @ file:///Users/ec2-user/ci_py311/idna_1678315819133/work
+Jinja2==3.1.3
+MarkupSafe==2.1.5
+mysqlclient @ file:///Users/ec2-user/ci_py311/mysqlclient_1678418599102/work
+oauthlib==3.2.2
+Pillow==10.1.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydantic==2.5.1
+pydantic_core==2.14.3
+PyJWT==2.8.0
+PyMySQL @ file:///Users/ec2-user/ci_py311/pymysql_1678420708564/work
+pyOpenSSL @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_7fwdg30481/croot/pyopenssl_1690223429070/work
+PySocks @ file:///Users/ec2-user/ci_py311/pysocks_1678315868424/work
+python3-openid==3.2.0
+pytz==2023.3.post1
+requests @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_fa2zrx4csg/croot/requests_1690400223595/work
+requests-oauthlib==1.3.1
+soupsieve==2.5
+sqlparse @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_cb77ukgrpu/croot/sqlparse_1690901947630/work
+typing_extensions==4.8.0
+urllib3 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_62orwr3pr2/croot/urllib3_1698257564351/work
