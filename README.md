@@ -1,9 +1,10 @@
 # 不動産物件ECサイト制作
-- 不動産物件サイトチームプロジェクト
+- 不動産物件サイト7人チームプロジェクト
 
 ### 概要動画
 
-[![Video Label](http://img.youtube.com/vi/Y3MaUnOSwuM/0.jpg)](https://youtu.be/Y3MaUnOSwuM)
+[![Video Label](http://img.youtube.com/vi/Y3MaUnOSwuM/0.jpg)](https://youtu.be/Y3MaUnOSwuM)<br>
+発表者：戸田 康介
   
 ### 🙋‍♂️ 役割
 
