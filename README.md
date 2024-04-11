@@ -1,9 +1,9 @@
 # 不動産物件ECサイト制作
 - 不動産物件サイトチームプロジェクト
 
-###　概要動画
-Y3MaUnOSwuM
+### 概要動画
 
+[![Video Label](http://img.youtube.com/vi/Y3MaUnOSwuM/0.jpg)](https://youtu.be/Y3MaUnOSwuM)
   
 ### 🙋‍♂️ 役割
 
