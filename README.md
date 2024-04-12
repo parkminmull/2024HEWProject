@@ -4,6 +4,7 @@
 ### 概要動画
 
 [![Video Label](http://img.youtube.com/vi/Y3MaUnOSwuM/0.jpg)](https://youtu.be/Y3MaUnOSwuM)<br>
+↑クリックしてください！<br>
 発表者：戸田 康介
   
 ### 🙋‍♂️ 私の役割
