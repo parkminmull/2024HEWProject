@@ -6,7 +6,7 @@
 [![Video Label](http://img.youtube.com/vi/Y3MaUnOSwuM/0.jpg)](https://youtu.be/Y3MaUnOSwuM)<br>
 発表者：戸田 康介
   
-### 🙋‍♂️ 役割
+### 🙋‍♂️ 私の役割
 
 - プロントエンド
 - React,R3Fを使ってウェブページに3Dモデルを実装
